@@ -1,5 +1,9 @@
 # Raycast SwiftOnTap🍻
 
+## DEMO
+
+![](misc/demo.gif)
+
 ## How to Install
 
 - clone repo
